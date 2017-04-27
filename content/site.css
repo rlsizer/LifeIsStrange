@@ -1,5 +1,4 @@
 ﻿body {
-
     padding-top:0px;
     background-color:#FFF6F0;
 }
@@ -20,6 +19,30 @@ h1.container{
     background-color:#E8D6CF;
     margin-top:0px;
     padding-top:5px;
+}
+
+nav#navvy.navbar.navbar-static-top{
+    margin-top:0px;
+    margin-bottom:0px;
+    color:#FFF6F0;
+    background-color: #6A1525;
+}
+
+#navvy a {
+    color:#FFF6F0;
+}
+
+#navvy a:hover{
+    background:none;
+}
+
+/*Button*/
+button.navbar-toggle{
+    border:1px solid #FFF6F0;
+}
+
+span.icon-bar{
+    border:1px solid #FFF6F0;
 }
 
 
